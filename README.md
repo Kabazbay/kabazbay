@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Aspiring Cloud/DevOps Engineer. I’m currently building my skills in cloud infrastructure, Docker, Terraform, CI/CD, and automation through hands-on projects. I enjoy learning by building, troubleshooting, and documenting what I learn along the way.
+
 <!--
 **Kabazbay/kabazbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
